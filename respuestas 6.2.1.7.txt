@@ -1,0 +1,8 @@
+parte 1:
+
+Paso 2:
+El beneficio primario de usar VLANs son: seguridad, reducción de coste, alto rendimiento, eficiencia de grupo de trabajo IT, y administración simple de proyectos.
+
+parte 3:
+paso 4:
+Los pings fallaron porque los puertos entre los switches están en vlan 1 y pc1 y pc4 en vlan 10. Se debe configurar cada puerto de los switches como puertos troncales.
